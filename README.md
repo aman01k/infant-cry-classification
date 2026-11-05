@@ -133,4 +133,4 @@ numpy
 
 ## Authors
 
-Aman Kumar · AML Project 3
+Aman Kumar 
